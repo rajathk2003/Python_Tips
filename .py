@@ -1,3 +1,16 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# Python  Tips\n",
+    "\n",
+    "### Author: Rajath K\n",
+   
+   ]
+  },
+
 1. **Unpacking Elements from Iterables:**
    ```python
    a, b, c = [1, 2, 3]
